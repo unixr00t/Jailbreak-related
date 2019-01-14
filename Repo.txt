@@ -1,0 +1,25 @@
+Repos
+http://cydia.iphonecake.com
+http://apt.saurik.com/
+http://repo.nesolabs.de/
+https://build.frida.re/
+http://appsec-labs.com/cydia/
+http://cydia.zodttd.com/repo/cydia/
+http://mobiletools.mwrinfosecurity.com/cydia/
+http://repo666.ultrasn0w.com/
+http://apt.thebigboss.org/repofiles/cydia/
+http://cydia.radare.org/
+http://apt.modmyi.com/
+http://coolstar.org/publicrepo/
+http://rpetri.ch/repo
+
+PLUTIL - toolhttps://repo.bingner.com/ 
+
+disable jailbreak detetcion
+Liberty Lite - ryleyangus.com/repo/  
+Jail Protect -  https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/
+Breakthrough: ftp.sident.net/cydia-beta/
+
+
+
+java -Djsse.enableSNIExtension=false -jar burp
