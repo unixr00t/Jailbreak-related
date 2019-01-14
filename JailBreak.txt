@@ -1,0 +1,20 @@
+Online method
+
+https://silzee.com/ [Working]
+
+
+ You’ll need to perform the following 6 functions from within the Settings app; refer to the above video for a complete walkthrough.
+
+a) Disable Find my iPhone – tap your name at the top > iCloud > Find my iPhone / iPad / iPod touch
+b) Delete 11.4 OTA update – General > iPhone Storage > iOS 11.4
+c) Disable Wi-Fi from directly within settings (don’t use Control Center)
+d) Enter Airplane mode
+e) Turn off Siri – Siri & Search > Press Home / Side Button for Siri
+f) Disable Passcode – Touch ID / Face ID & Passcode > Turn off Passcode
+
+4. Reboot the device you intend to jailbreak by holding down the power button. If you’re on an iPhone 7, 7 Plus, 8, 8 Plus, or an iPhone X, hold down the side button and volume up to get the slider to appear.
+po
+
+
+http://www.3u.com/news/articles/7083/roundup-ios-1131-electra-jailbreak-errors-and-fixes
+
